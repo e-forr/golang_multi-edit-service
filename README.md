@@ -1,2 +1,7 @@
 # golang_multi-edit-service
-Personal project to experience and explore language features while working on an interesting problem.
+Personal project to explore golang language features and system design. Primarily features concurrent document editing by multiple users.
+
+## Features
+
+## Future Features
+- Basic Document Editing
